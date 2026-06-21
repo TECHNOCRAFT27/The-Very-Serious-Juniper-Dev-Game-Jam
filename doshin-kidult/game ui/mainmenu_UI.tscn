@@ -11,7 +11,7 @@ grow_horizontal = 2
 grow_vertical = 2
 
 [node name="bg" type="Sprite2D" parent="." unique_id=1171800794]
-position = Vector2(581, 328.00003)
+position = Vector2(579, 333.00003)
 scale = Vector2(0.60520834, 0.60833335)
 texture = ExtResource("1_e7qyg")
 
