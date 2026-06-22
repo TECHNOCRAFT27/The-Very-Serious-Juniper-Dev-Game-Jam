@@ -5,5 +5,5 @@
 [node name="TestLeve" type="Node2D" unique_id=902212400]
 
 [node name="Icon" type="Sprite2D" parent="." unique_id=823968402]
-position = Vector2(618, 333)
+position = Vector2(566, 538)
 texture = ExtResource("1_4k7b2")
