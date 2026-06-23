@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0uer8lmxmbs8"
-path="res://.godot/imported/assets.png-4f3c1b067da09061d57dbe725aca795e.ctex"
+uid="uid://bqxh6budjvbjy"
+path="res://.godot/imported/gun_box.png-c9ab2d5d8ce5e8ad7eb3d2c33d2d662e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game asset/shiv's assets/summer_plains_v1.0_standard/assets.png"
-dest_files=["res://.godot/imported/assets.png-4f3c1b067da09061d57dbe725aca795e.ctex"]
+source_file="res://game asset/vedant's asset/items/gun_box.png"
+dest_files=["res://.godot/imported/gun_box.png-c9ab2d5d8ce5e8ad7eb3d2c33d2d662e.ctex"]
 
 [params]
 

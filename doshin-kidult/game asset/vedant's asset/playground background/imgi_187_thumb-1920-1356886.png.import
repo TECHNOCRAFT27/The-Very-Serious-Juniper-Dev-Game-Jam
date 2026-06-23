@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0uer8lmxmbs8"
-path="res://.godot/imported/assets.png-4f3c1b067da09061d57dbe725aca795e.ctex"
+uid="uid://dtnl2tsarae5b"
+path="res://.godot/imported/imgi_187_thumb-1920-1356886.png-8925838def1e3f64e5a141cb402a9071.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game asset/shiv's assets/summer_plains_v1.0_standard/assets.png"
-dest_files=["res://.godot/imported/assets.png-4f3c1b067da09061d57dbe725aca795e.ctex"]
+source_file="res://game asset/vedant's asset/playground background/imgi_187_thumb-1920-1356886.png"
+dest_files=["res://.godot/imported/imgi_187_thumb-1920-1356886.png-8925838def1e3f64e5a141cb402a9071.ctex"]
 
 [params]
 

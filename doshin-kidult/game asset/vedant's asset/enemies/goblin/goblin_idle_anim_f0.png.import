@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0uer8lmxmbs8"
-path="res://.godot/imported/assets.png-4f3c1b067da09061d57dbe725aca795e.ctex"
+uid="uid://dpj0bd1ba6sm8"
+path="res://.godot/imported/goblin_idle_anim_f0.png-65b6e369930829f45aff449a5f724191.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game asset/shiv's assets/summer_plains_v1.0_standard/assets.png"
-dest_files=["res://.godot/imported/assets.png-4f3c1b067da09061d57dbe725aca795e.ctex"]
+source_file="res://game asset/vedant's asset/enemies/goblin/goblin_idle_anim_f0.png"
+dest_files=["res://.godot/imported/goblin_idle_anim_f0.png-65b6e369930829f45aff449a5f724191.ctex"]
 
 [params]
 
