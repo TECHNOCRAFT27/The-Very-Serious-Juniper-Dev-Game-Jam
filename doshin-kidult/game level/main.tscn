@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://sv3h5i6f3hlf"]
+
+[ext_resource type="Texture2D" uid="uid://dapd5gbo3vhop" path="res://game asset/image/playground background/ground.jpg" id="1_xmt2h"]
+[ext_resource type="PackedScene" uid="uid://wgj2cyal0yu8" path="res://game scence/main_charecter.tscn" id="2_1vihm"]
+
+[node name="main" type="Node2D" unique_id=1638255678]
+
+[node name="Ground" type="Sprite2D" parent="." unique_id=455620964]
+position = Vector2(642.00006, 366)
+rotation = -0.009271981
+scale = Vector2(0.33228576, 0.3431883)
+texture = ExtResource("1_xmt2h")
+
+[node name="CharacterBody2D" parent="." unique_id=389184340 instance=ExtResource("2_1vihm")]
+position = Vector2(504, 387)
