@@ -2493,13 +2493,19 @@ sources/0 = SubResource("TileSetAtlasSource_r0ajt")
 [node name="main" type="Node2D" unique_id=1638255678]
 
 [node name="Ground" type="Sprite2D" parent="." unique_id=455620964]
+<<<<<<< HEAD
 visible = false
 position = Vector2(642.00006, 366)
+=======
+texture_filter = 2
+position = Vector2(648, 355)
+>>>>>>> 42eb5ac (Refactor game level structure: update ground position and scale, remove obsolete character scene, and add player movement script)
 rotation = -0.009271981
-scale = Vector2(0.33228576, 0.3431883)
+scale = Vector2(0.34243596, 0.34931454)
 texture = ExtResource("1_xmt2h")
 
 [node name="CharacterBody2D" parent="." unique_id=389184340 instance=ExtResource("2_1vihm")]
+<<<<<<< HEAD
 position = Vector2(504, 387)
 
 [node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=1010776864]
@@ -2509,3 +2515,6 @@ tile_set = SubResource("TileSet_xepy2")
 [node name="TileMap" type="TileMap" parent="TileMapLayer" unique_id=1154999278]
 tile_set = SubResource("TileSet_qc24j")
 format = 2
+=======
+position = Vector2(248, 589)
+>>>>>>> 42eb5ac (Refactor game level structure: update ground position and scale, remove obsolete character scene, and add player movement script)
